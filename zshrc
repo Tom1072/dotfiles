@@ -106,6 +106,7 @@ fi
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzshconfig="nvim ~/.oh-my-zsh"
 alias nvimconfig="nvim ~/.config/nvim/init.vim"
+alias gitconfig="nvim ~/.gitconfig"
 
 alias src-nvim="source ~/.config/nvim/init.vim"
 alias src-zsh="source ~/.zshrc"

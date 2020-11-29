@@ -26,6 +26,7 @@ set smarttab
 set tabstop=4
 set mouse=a
 set showmatch
+set cursorline
 colorscheme PaperColor
 
 set noshowmode
